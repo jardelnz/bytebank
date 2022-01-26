@@ -1,16 +1,25 @@
+
 # bytebank
 
-A new Flutter project.
+É um projeto flutter construído durante a formação Flutter da [@alura](https://twitter.com/AluraOnline).
 
-## Getting Started
+principal objetivo será implementar uma _feature_ para uma empresa conhecida como **Bytebank**, um banco digital. Nossa responsabilidade será a implementação de uma lista de transferências e permitir que nosso usuário consiga criar as transferências.
 
-This project is a starting point for a Flutter application.
+![Tela00](https://caelum-online-public.s3.amazonaws.com/1411-fundamentos-flutter/Transcri%C3%A7%C3%A3o/Imagens/3-telacriar.png)
+![Tela01](https://caelum-online-public.s3.amazonaws.com/1411-fundamentos-flutter/Transcri%C3%A7%C3%A3o/Imagens/4-telatransf.png)
 
-A few resources to get you started if this is your first Flutter project:
+Para executar o projeto realize a configuração do seu ambiente para rodar aplicativos em Flutter acessando o link: https://docs.flutter.dev/get-started/install
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Depois de realizar toda a configuração execute no terminal  `flutter doctor`
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Verifique a resposta do comando acima, se estiver tudo certo rode o aplicativo utilizando o emulador da sua preferêmcia `flutter emulators --launch id-do-emulador`
+
+## Aula 01
+
+Nesta aula, aprendemos:
+
+* O que é o Flutter;
+* Como instalar e preparar o ambiente para o Flutter;
+* Criar e executar o primeiro projeto;
+* Abrir o projeto no IntelliJ, editar o código e executá-lo;
+* O que são Widgets e como funciona a estrutura para criar layouts no Flutter.
